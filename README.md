@@ -22,8 +22,12 @@ void main(){
 
 [naver](https://www.naver.com)
 
-[daum][daum_link]
+[daum][daum-link]
 
-[naver]: https://www.daum.net
+[daum-link]: https://www.daum.net
 
 ###Images
+
+![logo][2]
+
+[2]: https://github.com/blokey12/DKSH-/blob/main/KakaoTalk_20201106_192825771.png
